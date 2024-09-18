@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a763e3a-2a19-41ea-8ce5-67511de3f9e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_demos/import_multiple_files/07.fetch_daily_joke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_demos/07-fetch_daily_joke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_demos/import_multiple_files/07.fetch_daily_joke.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
