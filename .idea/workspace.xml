@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a763e3a-2a19-41ea-8ce5-67511de3f9e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_demos/08-fetch_daily_horoscope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_demos/09-get_imdb_top_movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_demos/10-get_co2_comission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_demos/11-get_covid_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_demos/12-currency_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.08-fetch_daily_horoscope.executor": "Run",
-    "Python.09-get_imdb_top_movies.executor": "Run",
-    "Python.16-task16.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ertan/OneDrive/Documents/GitHub/Python_Web_Scraping"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.08-fetch_daily_horoscope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09-get_imdb_top_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-task16.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ertan/OneDrive/Documents/GitHub/Python_Web_Scraping&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.09-get_imdb_top_movies">
     <configuration name="08-fetch_daily_horoscope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Web_Scraping" />
