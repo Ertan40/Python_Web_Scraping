@@ -8,7 +8,7 @@ import requests
 
 def weather_data(query):
     res = requests.get(
-        'http://api.openweathermap.org/data/2.5/weather?' + query + '&APPID=6ba7c195793ee90a2c1be5134987e7bf&units=metric')
+        'http://api.openweathermap.org/data/2.5/weather?' + query + '<Your API key goes here>')
     res.raise_for_status()
     return res.json()
 
