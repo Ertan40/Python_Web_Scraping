@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a763e3a-2a19-41ea-8ce5-67511de3f9e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_demos/20.validate_and_get_your_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_demos/21.fetch_nasa_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
