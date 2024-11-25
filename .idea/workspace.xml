@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a763e3a-2a19-41ea-8ce5-67511de3f9e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_demos/22.search_books_by_isbn.py" afterDir="false" />
-    </list>
+    <list default="true" id="4a763e3a-2a19-41ea-8ce5-67511de3f9e0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,17 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.08-fetch_daily_horoscope.executor": "Run",
-    "Python.09-get_imdb_top_movies.executor": "Run",
-    "Python.16-task16.executor": "Run",
-    "Python.22.search_books_by_isbn.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ertan/OneDrive/Documents/GitHub/Python_Web_Scraping"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.08-fetch_daily_horoscope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09-get_imdb_top_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-task16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22.search_books_by_isbn.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ertan/OneDrive/Documents/GitHub/Python_Web_Scraping&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.22.search_books_by_isbn">
     <configuration name="08-fetch_daily_horoscope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Web_Scraping" />
